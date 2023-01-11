@@ -78,7 +78,7 @@ class _ChatPageState extends State<ChatPage> {
         title: const Padding(
           padding: EdgeInsets.all(8.0),
           child: Text(
-            "Quakka",
+            "Chat with me",
             maxLines: 2,
             textAlign: TextAlign.center,
           ),
